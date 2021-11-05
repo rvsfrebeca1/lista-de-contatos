@@ -8,7 +8,7 @@ O objetivo desse projeto é você desenvolver uma aplicação do começo ao fim,
 
 A aplicação trata-se de uma agenda pessoal, onde você pode fazer um cadastro de e autenticar-se. Após se autenticar, o usuário pode adicionar, editar, remover e listar contatos em sua agenda.
 
-Você pode ver e testar a aplicação nesse link => [https://cubosagenda.netlify.app/](https://cubosagenda.netlify.app/)
+Você pode ver e testar a aplicação nesse link => [https://lista-de-contatos-rebeca.herokuapp.com/](https://lista-de-contatos-rebeca.herokuapp.com/)
 
 --- 
 
