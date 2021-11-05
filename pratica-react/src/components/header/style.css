@@ -1,0 +1,19 @@
+.logo img{
+    max-width: 120px
+}
+
+.quit img{
+    max-width: 20px;
+}
+
+
+.logo, .quit{
+    width: 50%;
+    text-align: end;
+}
+
+.logo{
+    margin-right: -20px;
+}
+
+

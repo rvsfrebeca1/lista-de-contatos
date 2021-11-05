@@ -1,0 +1,58 @@
+
+main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+.direita {
+    width: 50%;
+    height: 100vh;
+}
+
+.esquerda__cadastro{
+    width: 50%;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+.esquerda__main{
+    display: flex;
+    flex-direction: column;
+
+    width: 60%;
+}
+
+
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap:16px;
+    margin: 30px 0 70px 0;
+}
+
+.green {
+    background-color: chartreuse;
+}
+
+span {
+    align-self: center;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
