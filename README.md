@@ -1,15 +1,12 @@
-![](https://i.imgur.com/xG74tOh.png)
 
-# Aula prática de React
+
+# LISTA DE CONTATOS 
 
 ## Agenda de contatos pessoal
 
-O objetivo dessa aula é você desenvolver uma aplicação do começo ao fim, utilizando as tecnologias aprendidas durante o curso.
+O objetivo desse projeto é você desenvolver uma aplicação do começo ao fim, utilizando as tecnologias aprendidas durante o curso de desenvolvimento web full stack.
 
 A aplicação trata-se de uma agenda pessoal, onde você pode fazer um cadastro de e autenticar-se. Após se autenticar, o usuário pode adicionar, editar, remover e listar contatos em sua agenda.
-
-
-Para desenvolver, nesse repositório temos um arquivo chamado `aula-pratica.fig`, ou você pode acessar o arquivo figma nesse [link](https://www.figma.com/file/yN40UvrQmv4i8V4uHs94Yn/Aula-Prática?node-id=0%3A1).
 
 Você pode ver e testar a aplicação nesse link => [https://cubosagenda.netlify.app/](https://cubosagenda.netlify.app/)
 
@@ -135,30 +132,4 @@ Esse endpoint permite que você faça a atualização de um contato, para atuali
 ```
 
 
-
-## Dicas para o frontend:
-- Cuidado com prop drilling
-- Pense bem na componentização
-- Pense sempre em manter um código limpo e organizado.
-
-## Tecnologias que você pode usar no frontend:
-- React Hooks 
-    - useState
-    - useEffect
-    - hooks personalizados
-- Fetch 
-- HTML e CSS
-- Toast (Mensagens de validação)
-- Context API
-
----
-
-Preencha a checklist para fazer os exercícios:
-
--   [ ] Fazer o fork do repositório para sua conta
--   [ ] Executar `git clone` do seu fork no terminal para clonar o repositório, ou clonar de outra maneira
--   [ ] Após fazer e commitar todos os exercícios fazer o `git push` para seu fork
--   [ ] Copiar a url do seu fork e enviar na plataforma
-
-###### tags: `módulo 4` `front-end` `React`
 
