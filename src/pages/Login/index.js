@@ -21,7 +21,6 @@ export default function Login() {
   const { email, setEmail, senha, setStorageToken, setSenha } = UseConsumirDados()
   const history = useHistory()
 
-  console.log(window.location.pathname)
   async function handleSubmit(event) {
     event.preventDefault();
     if (!email || !senha) {
